@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to change root password MySQL"
+title:  "كيفية تغيير كلمة مرور روت في SQL"
 date:   2016-07-08 
 categories: jekyll update
 ---
