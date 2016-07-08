@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to change root password MySQL"
-date:   2016-07-09 
+date:   2016-07-08 
 categories: jekyll update
 ---
 .ﺑﺴﻢ اﻟﻠﻪ اﻟﺮﺣﻤﻦ اﻟﺮﺣﻴﻢ
